@@ -92,11 +92,11 @@ syn keyword logLvFatal      FATAL
 syn keyword logLvEmergency  EMERGENCY EMERG
 syn keyword logLvAlert      ALERT
 syn keyword logLvCritical   CRITICAL CRIT
-syn keyword logLvError      ERROR ERRORS ERR E
+syn keyword logLvError      ERROR ERRORS ERR E user.err
 syn keyword logLvFailure    FAILURE FAILED FAIL F
 syn keyword logLvWarning    WARNING WARN W
 syn keyword logLvNotice     NOTICE
-syn keyword logLvInfo       INFO I
+syn keyword logLvInfo       INFO I user.info
 syn keyword logLvDebug      DEBUG DBG D
 syn keyword logLvTrace      TRACE
 
